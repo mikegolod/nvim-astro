@@ -8,6 +8,6 @@ return {
   { import = "astrocommunity.colorscheme.dracula-nvim" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.go" },
-  { import = "astrocommunity.pack.vue" },
+  { import = "astrocommunity.pack.full-dadbod" },
   -- import/override with your plugins folder
 }
