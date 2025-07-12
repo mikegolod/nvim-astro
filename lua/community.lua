@@ -11,6 +11,8 @@ return {
   { import = "astrocommunity.pack.full-dadbod" },
   { import = "astrocommunity.git.blame-nvim" },
   { import = "astrocommunity.test.neotest" },
-  { import = "astrocommunity.note-taking.neorg" },
+  { import = "astrocommunity.fuzzy-finder.telescope-zoxide" },
+  { import = "astrocommunity.programming-language-support.rest-nvim" },
+  -- { import = "astrocommunity.note-taking.neorg" },
   -- import/override with your plugins folder
 }
